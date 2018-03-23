@@ -1,0 +1,9 @@
+#windows
+Thumbs.db
+Desktop.ini
+
+#Python
+*.so
+
+#Java
+*.class
